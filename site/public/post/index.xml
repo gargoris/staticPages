@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Site Linux</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Site Linux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 30 Oct 2017 13:56:41 +0100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instalación de linux en un pendrive</title>
+      <link>/post/linux/</link>
+      <pubDate>Mon, 30 Oct 2017 13:56:41 +0100</pubDate>
+      
+      <guid>/post/linux/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance
+Instalación de linux en un pendrive En esta página se detalla el software y los pasos para instalar una distribución de Linux en un pendrive que sirva para arrancar un ordenador con él (siempre que el hardware admita esta funcionalidad).</description>
+    </item>
+    
+  </channel>
+</rss>
