@@ -9,11 +9,15 @@ date: 2017-10-31 12:20:48
 
 # Objetivo
 
-Así que Vd. quiere instalar Linux en su ordenador (portátil o de sobremesa) y hacerlo de manera poco gravosa para su bolsillo, su espíritu y la salud de la infraestructura software ya presente en dicho ordenador, ¿no?.
-Tal vez este no sea el lugar más apropiado, pero intentaremos plantearle una serie de acciones "molto fachiles e diver-tentes" para conseguir su objetivo, que de esta manera se convierte en el nuestro.
+Bienvenido, bienvenida. 
+
+Así pues, ¿Vd. quiere instalar Linux en su ordenador (portátil o de sobremesa) y hacerlo de manera poco gravosa para su bolsillo, su espíritu y la salud de la infraestructura software ya presente en dicho ordenador, no?.
+Intentaremos plantearle una serie de acciones "molto fachiles e diver-tentes" para conseguir su objetivo, que de esta manera se convierte en el nuestro.
 
 # Lista de ingredientes
+Como cualquier tarea, se debe tener preparado de antemano herramientas, materiales y planos. El objetivo está claro: obtener un pendrive con una distribución Linux instalada en él para poder iniciar el ordenador destino de la instalación (como cualquier otro sistema operativo, Linux se debe instalar desde una instalación ya existente).
+Esta es la lista no exhaustiva:
 - [ ] Un pendrive de, al menos, 8GB de capacidad
-- [ ] Una distribución Linux en formato iso o img
+- [ ] Una distribución Linux en formato iso o img (consultar la página de [sabores](/sabores "Sabores"))
 - [ ] Software para poder escribir de forma apropiada el fichero iso o img en el pendrive
 - [ ] Un ordenador que soporte el arranque desde un pendrive USB

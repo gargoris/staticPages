@@ -1,0 +1,97 @@
+title:
+  archive: Archivo
+  category: Categoría
+  tag: Etiqueta
+  schedule: Calendario
+
+author: Autor
+
+menu:
+  home: Home
+  archives: Archivos
+  categories: Categorías
+  tags: Etiquetas
+  about: Acerca
+  search: Buscar
+  schedule: Calendario
+  sitemap: Mapa
+  commonweal: Commonweal 404
+
+sidebar:
+  overview: General
+  toc: Índice
+
+post:
+  created: Entrada creada
+  modified: Entrada modificada
+  sticky: Fijada
+  posted: Publicada en
+  in: En
+  more: más
+  read_more: Leer más
+  untitled: Sin título
+  toc_empty: Esta entrada no tiene índice
+  visitors: Visitantes
+  wordcount: Palabras en la entrada
+  min2read: Tiempo de lectura
+  totalcount: Palabras totales
+  copyright:
+    author: Autor
+    link: Enlace
+    license_title: Copyright
+    license_content: 'Todos los artículos en este blog están publicados bajo la licencia
+      <a href="%s" rel="external nofollow" target="_blank">%s</a> si no se indica lo contrario.'
+
+page:
+  totally: Totalmente
+  tags: etiquetas
+
+footer:
+  powered: "Powered by %s"
+  theme: Tema
+
+counter:
+  tag_cloud:
+    zero: No tags
+    one: 1 tag in total
+    other: "%d tags in total"
+
+  categories:
+    zero: No categories
+    one: 1 category in total
+    other: "%d categories in total"
+
+  archive_posts:
+    zero: No posts.
+    one: 1 post.
+    other: "%d posts in total."
+
+state:
+  posts: posts
+  pages: pages
+  tags: tags
+  categories: categories
+
+search:
+  placeholder: Searching...
+
+cheers:
+  um: Um..
+  ok: OK
+  nice: Nice
+  good: Good
+  great: Great
+  excellent: Excellent
+
+keep_on: Keep on posting.
+
+symbol:
+  comma: ', '
+  period: '. '
+  colon: ':'
+
+reward:
+  donate: Donate
+  wechatpay: WeChat Pay
+  alipay: Alipay
+  bitcoin: Bitcoin
