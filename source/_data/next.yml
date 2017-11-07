@@ -82,7 +82,7 @@ index_with_subtitle: false
 menu:
   home: / || home
   "Linux en un Pendrive" : /un-linux-en-un-pendrive || usb
-  "Sabores Linux" : /sabores || linux
+  "Sabores Linux" : /sabores-linux-distribuciones || linux
   #about: /about/ || user
   #tags: /tags/ || tags
   #categories: /categories/ || th
@@ -117,10 +117,10 @@ scheme: Mist
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/gargoris || github
-  E-Mail: mailto:habidis.habidis@gmail.com || envelope
-  #Google: https://plus.google.com/yourname || google
-  Twitter: https://twitter.com/TZamman || twitter
+  #GitHub: https://github.com/gargoris || github
+  E-Mail: mailto:moriquendium@gmail.com || envelope
+  Google: https://plus.google.com/moriquendium || google
+  Twitter: https://twitter.com/moriquendium || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
