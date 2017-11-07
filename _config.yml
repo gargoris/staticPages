@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Un pingüino en mi ascensor (y en mi ordenador, también)
-subtitle:
-description:
+title: Un pingüino en mi ascensor y en mi ordenador
+subtitle: 
+description: Un tutorial para la instalación de Linux
 author: Francisco José Fuentes Rodríguez
 language: es
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://un-usb-con-linux.netlify.com/
+url: https://un-usb-con-pinguinos.netlify.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,7 +98,7 @@ markdown_it_plus:
           options:
             disabled: false,
             divWrap: true
-            divClass: 'checkbox checkbox-primary'
+            divClass: 'checkbox checkbox-success checkbox-circle '
       
       - plugin:
           name: markdown-it-fontawesome
