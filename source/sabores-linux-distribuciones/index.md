@@ -15,4 +15,4 @@ Junto con la arquitectura de la distribución, cada organización también decid
 
 
 [^1]: Sabor es el término usado en los primeros tiempos de Linux, tal vez heredado de conceptos de Física de partículas.
-[^2]: Hay que recordar que en Linux el entorno de ventanas también es a elección del usuario. Cualquier distribución de GNU Linux ofrece diferentes entornos de ventanas, si bien suelen estar enfocadas a uno u otro.
+[^2]: Hay que recordar que en Linux el entorno de ventanas también es a elección del usuario. Cualquier distribución de GNU Linux ofrece diferentes entornos de ventanas, si bien suelen estar más enfocadas a uno en particular.
