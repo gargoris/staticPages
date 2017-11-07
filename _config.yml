@@ -98,4 +98,8 @@ markdown_it_plus:
           options:
             disabled: false,
             divWrap: true
-            divClass: task-tt
+            divClass: 'checkbox checkbox-primary'
+      
+      - plugin:
+          name: markdown-it-fontawesome
+          enable: true

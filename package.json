@@ -17,6 +17,7 @@
     "hexo-server": "^0.2.0",
     "hexo-wordcount": "^3.0.2",
     "markdown-it-checkbox": "^1.1.0",
+    "markdown-it-fontawesome": "^0.2.0",
     "markdown-it-task-checkbox": "^1.0.4"
   }
 }
