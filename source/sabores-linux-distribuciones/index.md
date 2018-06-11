@@ -9,7 +9,12 @@ Un sabor[^1] de Linux es un paquete compuesto por el núcleo de Linux (kernel, e
 
 Aparte de algunas líneas generales, como por ejemplo el proceso de arranque del sistema Linux que es casi común o con pocas opciones, cada organización que desarrolla una distribución Linux elige el formato de empaquetado de aplicaciones para instalación y el sistema para el inventario general del software instalado, algunas aplicaciones específicas para la configuración (normalmente en modo gráfico), algún escritorio (window manager o entorno de ventanas) que reciba los mayores esfuerzos de la organización para la integración del mismo en la distribución[^2], etc.
 
-Junto con la arquitectura de la distribución, cada organización también decide cuál será el protocolo de actualización de las aplicaciones que provee, variando desde las muy conservadoras, como Debian, que genera una versión cada dos años, tras haber probado exhaustivamente todo el producto, hasta las denominadas distribuciones _rolling-release_, en las que casi en el mismo día que los desarrolladores originales de una aplicación liberan una nueva versión, esta se pone a disposición de los usuarios de la distribución.
+Junto con la arquitectura de la distribución, cada organización también decide cuál será el protocolo de actualización de las aplicaciones que provee, variando desde las muy conservadoras, como Debian, que genera una versión cada dos años, tras haber probado exhaustivamente todo el producto, hasta las denominadas distribuciones _rolling-release_, en las que casi en el mismo día que los desarrolladores originales de una aplicación liberan una nueva versión, esta se pone a disposición de los usuarios de dicha distribución.
+
+No entraremos en los diferentes sabores/distribuciones disponibles ni en las relaciones padres/hijos, derivadas, derivadas con fines especificos, etc., algo bastante alejado del objetivo de este post. Al interesado se le remite a esta [página](https://distrowatch.com/dwres.php?resource=family-tree).
+
+El más ampliamente usado a nivel usuario/principante es [Ubuntu](https://www.ubuntu.com/) y, como una derivada aún más amigable, [Linux Mint](https://linuxmint.com/). Se dispone de una amplia ayuda en español a la instalación de [mint](https://linuxmint-installation-guide.readthedocs.io/es/latest/) que puede resultar aplicable a Ubuntu y tutoriales en inglés detallados para [ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0).
+
 
 
 
